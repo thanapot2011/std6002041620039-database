@@ -1,4 +1,3 @@
- 
 DROP TABLE IF EXISTS `privateowner`;
 CREATE TABLE `privateowner` (
   `id` int(11) NOT NULL AUTO_INCREMENT,

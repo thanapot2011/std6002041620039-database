@@ -1,4 +1,3 @@
- 
 DROP TABLE IF EXISTS `propertyforrent`;
 CREATE TABLE `propertyforrent` (
   `id` int(10) NOT NULL AUTO_INCREMENT,

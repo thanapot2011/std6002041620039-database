@@ -1,4 +1,3 @@
- 
 DROP TABLE IF EXISTS `viewing`;
 CREATE TABLE `viewing` (
   `id` int(11) NOT NULL AUTO_INCREMENT,

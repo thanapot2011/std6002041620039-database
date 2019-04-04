@@ -1,4 +1,3 @@
- 
 DROP TABLE IF EXISTS `branch`;
 CREATE TABLE `branch` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
